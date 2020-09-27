@@ -1,3 +1,12 @@
+#How to run the app
+
+1) Download or Git Clone the project locally.
+2) Open the project then terminal and type `npm install` for node_modules to be installed.
+3) Then type `npm start` and you can view the app in the browser under http://localhost:3000/.
+4) If you already have started the Java Spring App (TheodoreTsg/demo-spring) you can start using the app Sign Up, then Login and have a look at the application.
+
+More Info about React Scripts
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
