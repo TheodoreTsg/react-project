@@ -1,4 +1,4 @@
-#How to run the app
+# How to run the app
 
 1) Download or Git Clone the project locally.
 2) Open the project then terminal and type `npm install` for node_modules to be installed.
