@@ -163,7 +163,7 @@ export class HomePage extends Component {
                 ]
             },
             {label: 'Documentation', icon: 'pi pi-fw pi-question', command: () => {window.location = "/documentation"}},
-            {label: 'View Source', icon: 'pi pi-fw pi-search', command: () => {window.location = "https://github.com/primefaces/sigma"}}
+            {label: 'View Source', icon: 'pi pi-fw pi-search', command: () => {window.location = "https://github.com/TheodoreTsg/react-project"}}
         ];
       }
     
